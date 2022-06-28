@@ -1,0 +1,23 @@
+.blogs__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.blog {
+    margin-bottom: 0.65rem;
+}
+
+.blog h3 {
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.blog p {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+}
+
+.blog a {
+    display: block;
+}
